@@ -4,8 +4,8 @@ Este script de Bash consulta la PokeApi para obtener información sobre un Poké
 
 ## Requisitos
 
-- Bash (probado en versión X.X.X)
-- cURL (para realizar solicitudes a la PokeApi)
+- Bash (probado en version 5.2.15(1)-release)
+- Curl (para realizar solicitudes a la PokeApi)
 - jq (para parsear y extraer datos del resultado JSON)
 
 ## Uso
